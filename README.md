@@ -1,6 +1,5 @@
-# xammp-manager
+# xammp-manager Turkish Description
 
-Turkish Description
 
 Program Xampp Virtual host kullananlar için kolaylık sağlar
 
