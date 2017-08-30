@@ -8,8 +8,8 @@ Program Xampp Virtual host kullananlar için kolaylık sağlar
 
 1-) Config.xml Dosyası düzenleyiniz.
 
-- Default Olarak Config.xml'de "E:\\www" dizini tanımlıdır.
-- Eğer Xammp Ayarlarına dokunmak istemiyorsanız. "C:\\xampp\\htdocs" ile değiştiriniz.
+* Default Olarak Config.xml'de "E:\\www" dizini tanımlıdır.
+* Eğer Xammp Ayarlarına dokunmak istemiyorsanız. "C:\\xampp\\htdocs" ile değiştiriniz.
 
 2-) ayarladığınız dizinde klasör oluşturunuz.
  Note: Oluşturduğunuz dizini Programı Açmadan önce oluşturunuz 
@@ -38,9 +38,9 @@ Ayrıca open the folder diyerek Çalıştığınız domainin klasörünü açabi
 Eğer Notepad++ var ise onunla açmayı dener
 yok ise notepad ile açar.
 
-*host dosyasını Açar.
-*Xampp httpd.conf dosyasını açar.
-*httpd-vhost.conf dosyasını açar.
+* host dosyasını Açar.
+* Xampp httpd.conf dosyasını açar.
+* httpd-vhost.conf dosyasını açar.
 
 
 
